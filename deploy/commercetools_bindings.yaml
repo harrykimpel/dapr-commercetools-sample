@@ -7,15 +7,15 @@ spec:
   type: bindings.commercetools
   version: v1
   metadata:
-  - name: Region
+  - name: region
     value: europe-west1
-  - name: Provider
+  - name: provider
     value: gcp
-  - name: ProjectKey
+  - name: projectKey
     value: project-key
-  - name: ClientID
+  - name: clientID
     value: client-id
-  - name: ClientSecret
+  - name: clientSecret
     value: client-secret
-  - name: Scopes
+  - name: scopes
     value: manage_project:project-key
